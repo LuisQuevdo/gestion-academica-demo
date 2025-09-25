@@ -1,1 +1,1 @@
-# Gestión Académica Demo
+# Gestion Académica Demo
